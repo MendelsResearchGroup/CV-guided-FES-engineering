@@ -45,17 +45,5 @@ figures/
     scripts_to_generate_figures.py
 ```
 
-## Quick run
-
-From this folder:
-
-```bash
-python figures/scripts_to_generate_figures.py
-```
-
-Generated figures are written to:
-
-- `figures/generated/`
-
 ## Notes
 - `analysis/hlda_analysis.py` can regenerate EV tables from raw `COLVAR_CV_F` and `COLVAR_CV_UF` data if needed.
