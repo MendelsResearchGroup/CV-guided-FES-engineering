@@ -33,10 +33,16 @@ data/
 
 gromacs_inputs/
     mdp_files/
-        emin.mdp
-        nvt.mdp
-        npt.mdp
-        md.mdp
+    structures/
+        WT.gro
+        Y0A.gro
+        ...
+    topologies/
+        WT.top
+        WT.itp
+        Y0A.top
+        Y0A.itp
+        ...
 
 plumed/
     plumed.dat
